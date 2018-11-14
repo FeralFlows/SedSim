@@ -20,3 +20,4 @@ SedSim is an ope-source, daily time step river basin simulation model for flow, 
 
 # <a name="Installation Guide"></a>Installation Guide
 
+The installation process is described in the SedSim wiki, as well as in the SedSim user manual in the docs folder.
