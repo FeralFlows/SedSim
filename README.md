@@ -1,6 +1,6 @@
 # SedSim
 
-- [Contact Us](#Contact Us)
+- [Contact Us](#Contact)
 - [Introduction](#Introduction)
 - [Installation Guide](#InstallGuide)
 - [Model Structure](#ModelStructure)
@@ -9,8 +9,9 @@
 - [Input Files](#InstallGuide)
 - [Output Files Files](#InstallGuide)
 
-# <a name="Contact Us"></a>Contact Us
+# <a name="Contact Us"></a>Contact
 Thomas B. Wild, twild@umd.edu
+
 Daniel P. Loucks, loucks@cornell.edu
 
 # <a name="Introduction"></a>Introduction
