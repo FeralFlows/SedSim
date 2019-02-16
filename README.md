@@ -29,10 +29,10 @@ If you are unfamiliar working from the command line, we suggest you try download
 
 2. Open up the main (macro) workbook (SedSim.xlsm).
 
-⋅⋅⋅Open the main SedSim model file. This file will be referred to as "SedSim_Model.xlsm" throughout this documentation for convenience, but the file can be given any name by simply right-clicking on the file icon when the file is closed and selecting "rename".
+   Open the main SedSim model file. This file will be referred to as "SedSim_Model.xlsm" throughout this documentation for convenience, but the file can be given any name by simply right-clicking on the file icon when the file is closed and selecting "rename".
 Upon opening the workbooks, you may be asked if you wish to enable macros. Click the “Enable Macros” option to allow the sediment model to execute properly.
 
-Figure 2.2 shows the interface associated with the main workbook of the SedSim model.  It is designed to be generic so it can be used without code modification to run any input file. 
+   Figure 2.2 shows the interface associated with the main workbook of the SedSim model.  It is designed to be generic so it can be used without code modification to run any input file. 
 
 3. Enable macros in security settings.
 
