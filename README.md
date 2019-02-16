@@ -34,7 +34,7 @@ Upon opening the workbooks, you may be asked if you wish to enable macros. Click
 
    The image below shows the interface associated with the main workbook of the SedSim model.  It is designed to be generic so it can be used without code modification to run any input file. 
 
-![Capture](/images/Capture.png)
+![Test](/images/Capture.png)
 
 3. Enable macros in security settings.
 
