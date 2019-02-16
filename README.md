@@ -42,7 +42,8 @@ Upon opening the workbooks, you may be asked if you wish to enable macros. Click
 
    The next two figures below visually depict the steps described above. From the options menu within Excel’s “File” tab, select “Trust Center”, from which you can enable macros.
    
-   ![Test](/images/trust_center.PNG)
+   ![trust_center](/images/trust_center.png)
+   ![trust_center](/images/trust_center_2.png)
 
 4. Load in the input data and specify assumptions.
 
@@ -63,6 +64,9 @@ Upon opening the workbooks, you may be asked if you wish to enable macros. Click
    In the main menu at the top of the screen, select Tools-->References. Find and check two boxes: (1) “Solver”, which enables sediment calibration; and (2) “Microsoft Scripting Runtime”, which enables runtime messages to be printed to a text file during model execution. Click OK to install the solver references. This is shown in the two images below.
  
    After installing these references, save the file within VBA, and close out of VBA and Excel altogether. Finally, re-open and re-run the model to see if this change permits the model to run.
+
+   ![trust_center](/images/references.png)
+   ![trust_center](/images/references_2.png)
 
 7. Evaluate results.   
 
