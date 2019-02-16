@@ -3,11 +3,6 @@
 - [Contact Us](#Contact)
 - [Introduction](#Introduction)
 - [Getting Started](#InstallGuide)
-- [Model Structure](#ModelStructure)
-    + [Model Structure Overview](#ModelOverview)  
-    + [Model Files](#ModelFiles)
-- [Input Files](#InstallGuide)
-- [Output Files Files](#InstallGuide)
 
 # <a name="Contact Us"></a>Contact
 Thomas B. Wild, twild@umd.edu
