@@ -22,7 +22,7 @@ SedSim is a free, open-source, daily time step river basin simulation model for 
 
 # <a name="Getting Started"></a>Getting Started
 
-The installation process is described in detail in the SedSim wiki, as well as in the SedSim user manual in the docs folder. The basic steps are as follows:
+The installation process is described in detail in the SedSim user manual in the docs folder. The basic steps are as follows:
 
 1. Open the main (macro) file (SedSim_Model.xlsm) and adjust specifications and settings.
 
