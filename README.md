@@ -32,7 +32,9 @@ SedSim is a free, open-source, daily time step river basin simulation model for 
    Open the main SedSim model file. This file will be referred to as "SedSim_Model.xlsm" throughout this documentation for convenience, but the file can be given any name by simply right-clicking on the file icon when the file is closed and selecting "rename".
 Upon opening the workbooks, you may be asked if you wish to enable macros. Click the “Enable Macros” option to allow the sediment model to execute properly.
 
-   Figure 2.2 shows the interface associated with the main workbook of the SedSim model.  It is designed to be generic so it can be used without code modification to run any input file. 
+   The image below shows the interface associated with the main workbook of the SedSim model.  It is designed to be generic so it can be used without code modification to run any input file. 
+
+![SedSim_worksheet_screenshot](/images/Capture.png)
 
 3. Enable macros in security settings.
 
@@ -64,4 +66,3 @@ Upon opening the workbooks, you may be asked if you wish to enable macros. Click
 
    The results of the simulation run are contained in the “SedSim_Output.xlsx” file.  Are these results reasonable given the input data?  One approach to gain confidence in the results is to create input data for relatively simple systems that should lead to obvious results, and then see if indeed they did.
 
-![Test_Name](/images/metis_moduleMapsProcessRaster.png)
