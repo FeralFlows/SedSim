@@ -64,5 +64,4 @@ Upon opening the workbooks, you may be asked if you wish to enable macros. Click
 
    The results of the simulation run are contained in the “SedSim_Output.xlsx” file.  Are these results reasonable given the input data?  One approach to gain confidence in the results is to create input data for relatively simple systems that should lead to obvious results, and then see if indeed they did.
 
-![GitHub Logo](/images/metis_moduleMapsProcessRaster.png)
-Format: ![Alt Text](url)
+![Test_Name](/images/metis_moduleMapsProcessRaster.png)
