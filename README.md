@@ -34,6 +34,7 @@ Upon opening the workbooks, you may be asked if you wish to enable macros. Click
 Figure 2.2 shows the interface associated with the main workbook of the SedSim model.  It is designed to be generic so it can be used without code modification to run any input file. 
 
 3. Enable macros in security settings.
+
 To be certain that the SedSim model will always run on your computer, in the “SedSim_Model.xlsm” workbook, in Excel 2007 (or Excel 2010), go to File (or MS Office Button) -> Options -> Trust Center -> Trust Center Settings -> Macro Settings -> Enable All Macros. When you are finished running the model in Excel, these settings should be returned to their original status to avoid potential security threats to your computer. Alternatively, as described in step 1 above, your version of Excel may provide a warning message when you first open the SedSim model that asks if you wish to enable the currently open SedSim model Excel file to be run on your computer, among other Macro options. You can enable the model to be run on your computer this way as well. 
 
 The next two figures below visually depict the steps described above. From the options menu within Excel’s “File” tab, select “Trust Center”, from which you can enable macros.
