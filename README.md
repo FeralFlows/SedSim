@@ -16,7 +16,7 @@ George W. Annandale, george@georgewannandale.com
 
 SedSim is a free, open-source, daily time step river basin simulation model for water and sediment flows, and hydropower production, in networks of reservoirs and river channels. SedSim enables water resources systems analysts and planners to explore alternative system configurations of reservoir sites, designs (i.e., outlet structures), and operating policies (SDO), and their implications for water flows, sediment transport and reservoir trapping, and hydropower production. The model uniquely enables simulation of a wide range of reservoir sediment management techniques through operational and design modifications, including flushing, sluicing, density current venting, bypassing, and dredging. SedSim can be applied in any river basin context, but is particularly useful in river basins that have experienced (or will experience) significant reservoir development. The source code (available on this repository at sedsim/SedSim_Model.xlsm) is written in the Visual Basic for Applications (VBA) language. The model requires one input file (Microsoft Excel '.xls' format), specified by the user to reflect conditions in the river basin to be modeled. The model produces output files in both ".xls" and ".csv" formats.
 
-# <a name="InstallGuide"></a>Getting~Started
+# <a name="InstallGuide"></a>Getting Started
 
 1. Clone SedSim from Github.
 
@@ -74,3 +74,21 @@ Upon opening the workbooks, you may be asked if you wish to enable macros. Click
    The results of the simulation run are contained in the “SedSim_Output.xlsx” file.  Are these results reasonable given the input data?  One approach to gain confidence in the results is to create input data for relatively simple systems that should lead to obvious results, and then see if indeed they did.
 
 # <a name="Pubs"></a>Publications using SedSim
+
+Peer-reviewed Publications:
+
+Wild, T.B., Loucks, D.P., Annandale, G.W., and Kaini, P. (2016). Maintaining Sediment Flows through Hydropower Dams in the Mekong River Basin. J. Water Resour. Plann. Manage, 142(1), 05015004.
+
+Wild, T.B. and Loucks, D.P. (2015). Mitigating Dam Conflicts in the Mekong River Basin. Chapter 2 in Conflict Resolution in Water Resources and Environmental Management, edited by K.W. Hipel et al., Springer (Heidelberg), pp. 25-48. 
+
+Wild, T.B. and Loucks, D.P. (2015). An Approach to Simulating Sediment Management in the Mekong River Basin. Chapter 12 in Sediment Matters, edited by P. Heininger and J. Cullman, Springer (Heidelberg), pp. 187-99.
+
+Wild, T.B. and Loucks, D.P. (2014). Managing Flow, Sediment and Hydropower Regimes in the Sre Pok, Se San and Se Kong Rivers of the Mekong Basin. Water Resour. Res., 50, 5141-57.
+
+Presentations:
+
+Wild, T.B. and Loucks, D.P. (2014). Managing the Impacts of Reservoirs in the Mekong River Basin. In Proceedings of the ASCE World Environmental and Water Resources Congress 2014, Portland, OR, 1070-1080.
+
+Wild, T.B. and Loucks, D.P. (2013). Managing Sediment in the Mekong River Basin: Tradeoffs between Hydropower and the Environment. In Proceedings of the ASCE World Environmental and Water Resources Congress 2013, Cincinnati, OH, 1297-1307.
+
+Wild, T.B. and Loucks, D.P. (2012). Assessing the Potential Sediment-Related Impacts of Hydropower Development in the Mekong River Basin. In Proceedings of the ASCE World Environmental and Water Resources Congress 2012, Albuquerque, NM, 2236-2246.
