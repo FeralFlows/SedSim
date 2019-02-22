@@ -85,7 +85,7 @@ Wild, T.B. and Loucks, D.P. (2015). An Approach to Simulating Sediment Managemen
 
 Wild, T.B. and Loucks, D.P. (2014). Managing Flow, Sediment and Hydropower Regimes in the Sre Pok, Se San and Se Kong Rivers of the Mekong Basin. Water Resour. Res., 50, 5141-57.
 
-Presentations:
+<strong> Presentations: </strong>
 
 Wild, T.B. and Loucks, D.P. (2014). Managing the Impacts of Reservoirs in the Mekong River Basin. In Proceedings of the ASCE World Environmental and Water Resources Congress 2014, Portland, OR, 1070-1080.
 
