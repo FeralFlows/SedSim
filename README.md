@@ -75,7 +75,7 @@ Upon opening the workbooks, you may be asked if you wish to enable macros. Click
 
 # <a name="Pubs"></a>Publications using SedSim
 
-Peer-reviewed Publications:
+<strong> Peer-reviewed Publications: </strong>
 
 Wild, T.B., Loucks, D.P., Annandale, G.W., and Kaini, P. (2016). Maintaining Sediment Flows through Hydropower Dams in the Mekong River Basin. J. Water Resour. Plann. Manage, 142(1), 05015004.
 
