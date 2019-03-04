@@ -1,4 +1,5 @@
 # SedSim
+A River Basin Simulation Screening Model for Reservoir Management of Sediment, Water, and Hydropower
 
 - [Contact Us](#Contact)
 - [Introduction](#Introduction)
