@@ -78,6 +78,8 @@ Upon opening the workbooks, you may be asked if you wish to enable macros. Click
 
 <strong> Peer-reviewed Publications: </strong>
 
+Wild, T.B., Loucks, D.P., and Annandale, G.W. (2019). SedSim: A River Basin Simulation Screening Model for Reservoir Management of Sediment, Water, and Hydropower. Journal of Open Research Software, 7: 22. DOI: https://doi.org/10.5334/jors.261
+
 Wild, T.B., Loucks, D.P., Annandale, G.W., and Kaini, P. (2016). Maintaining Sediment Flows through Hydropower Dams in the Mekong River Basin. J. Water Resour. Plann. Manage, 142(1), 05015004.
 
 Wild, T.B. and Loucks, D.P. (2015). Mitigating Dam Conflicts in the Mekong River Basin. Chapter 2 in Conflict Resolution in Water Resources and Environmental Management, edited by K.W. Hipel et al., Springer (Heidelberg), pp. 25-48. 
