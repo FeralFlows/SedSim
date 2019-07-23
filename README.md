@@ -17,6 +17,10 @@ George W. Annandale, george@georgewannandale.com
 
 SedSim is a free, open-source, daily time step river basin simulation model for water and sediment flows, and hydropower production, in networks of reservoirs and river channels. SedSim enables water resources systems analysts and planners to explore alternative system configurations of reservoir sites, designs (i.e., outlet structures), and operating policies (SDO), and their implications for water flows, sediment transport and reservoir trapping, and hydropower production. The model uniquely enables simulation of a wide range of reservoir sediment management techniques through operational and design modifications, including flushing, sluicing, density current venting, bypassing, and dredging. SedSim can be applied in any river basin context, but is particularly useful in river basins that have experienced (or will experience) significant reservoir development. The source code (available on this repository at sedsim/SedSim_Model.xlsm) is written in the Visual Basic for Applications (VBA) language. The model requires one input file (Microsoft Excel '.xls' format), specified by the user to reflect conditions in the river basin to be modeled. The model produces output files in both ".xls" and ".csv" formats.
 
+The following publication describes the model software:
+
+Wild, T.B., Loucks, D.P., and Annandale, G.W. (2019). SedSim: A River Basin Simulation Screening Model for Reservoir Management of Sediment, Water, and Hydropower. Journal of Open Research Software, 7: 22. DOI: https://doi.org/10.5334/jors.261
+
 # <a name="InstallGuide"></a>Getting Started
 
 1. Clone SedSim from Github.
